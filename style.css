@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.heading>h1{
+    color:tomato ;
+    text-shadow: 2px 2px 5px grey;
+    
+}
+h1{
+    display: inline;
+    color: red;
+    margin:  30px;
+    
+}
+button{
+    border-radius: 18px;
+    height: 40px;
+    width: 80px;
+
+}
+.start{
+    background-color:royalblue;
+    color: white;
+}
+.pause{
+background-color: tomato;
+color: white;
+}
+.restart{
+    background-color: black;
+    color: white;
+}
